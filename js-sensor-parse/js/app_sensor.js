@@ -3,9 +3,9 @@
 // @date    : 2015-04-06
 //------------------------------------
 
-var mAPP_ID='pOlE5wi8qSZ5h4ggCuChNka2KYfx8qhPrYIHR2oi';
-var mJS_KEY ='O5KkQg92KTMqaDlKN6LYfIsBR5KzeCXENg4YF8j0';
-var mMC_ID=4;
+var mAPP_ID='';
+var mJS_KEY ='';
+var mMC_ID=0;
 
 var mClassName='SenObject1';
 var mHeight_indicate  =75;
